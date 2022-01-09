@@ -16,4 +16,4 @@ File:
 Data:
     --trane.csv
     --test.csv
- ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moodysanalytics.com%2Frisk-perspectives-magazine%2Fmanaging-disruption%2Fspotlight%2Fmachine-learning-challenges-lessons-and-opportunities-in-credit-risk-modeling&psig=AOvVaw2XFCb6Uc5mWviOcz7Ogv2H&ust=1641820195273000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjw6LffpPUCFQAAAAAdAAAAABAJ)
+ ![alt text](https://ars.els-cdn.com/content/image/1-s2.0-S1364032120308753-fx1.jpg)
